@@ -1,0 +1,7 @@
+{
+  "name": "ALTO RIO IMÓVEIS | Imóveis de Alto Padrão",
+  "description": "Site moderno, elegante e exclusivo para a ALTO RIO IMÓVEIS, com curadoria de imóveis de alto padrão, lançamentos exclusivos, casas em condomínio, coberturas e atendimento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
